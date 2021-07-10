@@ -12,7 +12,7 @@ import java.util.stream.IntStream;
  *
  * @Author Kuldeep Dhole
  */
-public class MultiplesOf3And5 {
+public class P1_MultiplesOf3And5 {
 
     public static void main(String[] args) {
 
